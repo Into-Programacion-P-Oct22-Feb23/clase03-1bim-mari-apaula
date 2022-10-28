@@ -34,6 +34,7 @@ public class Ejemplo06 {
         
         System.out.println("----------------");
         System.out.println(10!=2); // true
+                                      //<//
     }
     
 }
